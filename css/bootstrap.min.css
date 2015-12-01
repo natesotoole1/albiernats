@@ -7,7 +7,7 @@
  #side_bar{
 	float:right;
 	position:inherit;
-	height: 80%;
+	height: 958px;
 	width: 234px;
 	border-left:none;
 	border-right:solid 2px;
@@ -39,11 +39,37 @@
 	
 }
 #head{
+	position:relative;
+	float:inherit;
 	background:url(../img/Group%203.png)no-repeat;
 	background-position:center;
-	width:85.9%;
+
+	width:86%;
 	height:80px;
-	border-left:solid 2px;
-	border-right:solid 2px;
 	
+}
+#facebookContainer{
+	height:180px;
+	width:200px;
+	border:solid 2px;
+}
+#instagramContainer{
+	height:180px;
+	width:200px;
+	border:solid 2px;
+}
+#twitterContainer{
+	height:180px;
+	width:200px;
+	border:solid 2px;
+}
+#tumblrContainer{
+	height:180px;
+	width:200px;
+	border:solid 2px;
+}
+#pinterestContainer{
+	height:180px;
+	width:200px;
+	border:solid 2px;
 }
